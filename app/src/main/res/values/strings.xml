@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login_text">Логин</string>
+    <string name="password_text">Пароль</string>
+    <string name="authorise_text">Авторизация</string>
+    <string name="Login_text">Войти</string>
+</resources>
